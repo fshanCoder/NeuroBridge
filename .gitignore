@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.sqlite3*
+.dart_tool/
+build/
+.flutter-plugins-dependencies

@@ -1,0 +1,112 @@
+{
+  "I need water": {
+    "English": "I need water",
+    "Hindi": "मुझे पानी चाहिए",
+    "Punjabi": "ਮੈਨੂੰ ਪਾਣੀ ਚਾਹੀਦਾ ਹੈ",
+    "Tamil": "எனக்குத் தண்ணீர் வேண்டும்",
+    "Spanish": "Necesito agua",
+    "French": "J’ai besoin d’eau",
+    "Arabic": "أحتاج إلى الماء",
+    "Japanese": "水がほしいです",
+    "Chinese": "我想喝水"
+  },
+  "Yes": {
+    "English": "Yes",
+    "Hindi": "हाँ",
+    "Punjabi": "ਹਾਂ",
+    "Tamil": "ஆம்",
+    "Spanish": "Sí",
+    "French": "Oui",
+    "Arabic": "نعم",
+    "Japanese": "はい",
+    "Chinese": "是的"
+  },
+  "No": {
+    "English": "No",
+    "Hindi": "नहीं",
+    "Punjabi": "ਨਹੀਂ",
+    "Tamil": "இல்லை",
+    "Spanish": "No",
+    "French": "Non",
+    "Arabic": "لا",
+    "Japanese": "いいえ",
+    "Chinese": "不是"
+  },
+  "I need help": {
+    "English": "I need help",
+    "Hindi": "मुझे मदद चाहिए",
+    "Punjabi": "ਮੈਨੂੰ ਮਦਦ ਚਾਹੀਦੀ ਹੈ",
+    "Tamil": "எனக்கு உதவி வேண்டும்",
+    "Spanish": "Necesito ayuda",
+    "French": "J’ai besoin d’aide",
+    "Arabic": "أحتاج إلى المساعدة",
+    "Japanese": "助けてください",
+    "Chinese": "我需要帮助"
+  },
+  "I want to eat": {
+    "English": "I want to eat",
+    "Hindi": "मुझे खाना है",
+    "Punjabi": "ਮੈਂ ਖਾਣਾ ਚਾਹੁੰਦਾ ਹਾਂ",
+    "Tamil": "எனக்குச் சாப்பிட வேண்டும்",
+    "Spanish": "Quiero comer",
+    "French": "Je veux manger",
+    "Arabic": "أريد أن آكل",
+    "Japanese": "食べたいです",
+    "Chinese": "我想吃饭"
+  },
+  "I need the toilet": {
+    "English": "I need the toilet",
+    "Hindi": "मुझे शौचालय जाना है",
+    "Punjabi": "ਮੈਨੂੰ ਬਾਥਰੂਮ ਜਾਣਾ ਹੈ",
+    "Tamil": "நான் கழிப்பறைக்குச் செல்ல வேண்டும்",
+    "Spanish": "Necesito ir al baño",
+    "French": "Je dois aller aux toilettes",
+    "Arabic": "أحتاج إلى الحمام",
+    "Japanese": "トイレに行きたいです",
+    "Chinese": "我想上厕所"
+  },
+  "I need a rest": {
+    "English": "I need a rest",
+    "Hindi": "मुझे आराम चाहिए",
+    "Punjabi": "ਮੈਨੂੰ ਆਰਾਮ ਚਾਹੀਦਾ ਹੈ",
+    "Tamil": "எனக்கு ஓய்வு வேண்டும்",
+    "Spanish": "Necesito descansar",
+    "French": "J’ai besoin de repos",
+    "Arabic": "أحتاج إلى الراحة",
+    "Japanese": "休みたいです",
+    "Chinese": "我需要休息"
+  },
+  "I am in pain": {
+    "English": "I am in pain",
+    "Hindi": "मुझे दर्द हो रहा है",
+    "Punjabi": "ਮੈਨੂੰ ਦਰਦ ਹੋ ਰਿਹਾ ਹੈ",
+    "Tamil": "எனக்கு வலிக்கிறது",
+    "Spanish": "Tengo dolor",
+    "French": "J’ai mal",
+    "Arabic": "أشعر بالألم",
+    "Japanese": "痛いです",
+    "Chinese": "我感觉疼"
+  },
+  "I need my medicine": {
+    "English": "I need my medicine",
+    "Hindi": "मुझे अपनी दवा चाहिए",
+    "Punjabi": "ਮੈਨੂੰ ਆਪਣੀ ਦਵਾਈ ਚਾਹੀਦੀ ਹੈ",
+    "Tamil": "எனக்கு என் மருந்து வேண்டும்",
+    "Spanish": "Necesito mi medicamento",
+    "French": "J’ai besoin de mon médicament",
+    "Arabic": "أحتاج إلى دوائي",
+    "Japanese": "薬が必要です",
+    "Chinese": "我需要我的药"
+  },
+  "Please call my family": {
+    "English": "Please call my family",
+    "Hindi": "कृपया मेरे परिवार को फ़ोन करें",
+    "Punjabi": "ਕਿਰਪਾ ਕਰਕੇ ਮੇਰੇ ਪਰਿਵਾਰ ਨੂੰ ਫ਼ੋਨ ਕਰੋ",
+    "Tamil": "என் குடும்பத்தினரை அழைக்கவும்",
+    "Spanish": "Por favor, llama a mi familia",
+    "French": "Appelez ma famille, s’il vous plaît",
+    "Arabic": "يرجى الاتصال بعائلتي",
+    "Japanese": "家族に電話してください",
+    "Chinese": "请给我的家人打电话"
+  }
+}

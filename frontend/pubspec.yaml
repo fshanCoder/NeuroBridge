@@ -1,0 +1,31 @@
+name: neurobridge
+description: Accessible patient communication and care board.
+publish_to: none
+version: 1.0.0+1
+environment:
+  sdk: '>=3.5.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  material_ui: ^1.1.0
+  http: ^1.2.2
+  shared_preferences: ^2.3.2
+  flutter_tts: ^4.2.0
+  uuid: ^4.5.1
+  pdf: ^3.13.1
+  printing: ^5.15.1
+  camera: ^0.12.2
+  geolocator: ^14.1.2
+  battery_plus: ^7.1.2
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/data/phrases.json
+  fonts:
+    - family: BoardSans
+      fonts:
+        - asset: assets/fonts/board.ttf
